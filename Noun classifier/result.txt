@@ -1,0 +1,256 @@
+Noun-~fmGI::Times appeared-1::Line Numbers-['1-']
+
+Noun-TEXAS::Times appeared-2::Line Numbers-['1-', '34']
+
+Noun-TECH•::Times appeared-1::Line Numbers-['1-']
+
+Noun-UN::Times appeared-1::Line Numbers-['1-', '34']
+
+Noun-[::Times appeared-1::Line Numbers-['1-']
+
+Noun-VERSJ::Times appeared-1::Line Numbers-['1-']
+
+Noun-Y::Times appeared-1::Line Numbers-['1-', '13', '26', '34']
+
+Noun-•::Times appeared-2::Line Numbers-['1-', '34']
+
+Noun-~::Times appeared-2::Line Numbers-['1-', '2-', '34', '35', '36']
+
+Noun-Operations::Times appeared-2::Line Numbers-['2-', '35']
+
+Noun-D1v1s1on-::Times appeared-1::Line Numbers-['2-']
+
+Noun-Services::Times appeared-3::Line Numbers-['3-', '12', '46']
+
+Noun-MEMORANDUM::Times appeared-1::Line Numbers-['4-']
+
+Noun-DATE::Times appeared-2::Line Numbers-['5-', '38']
+
+Noun-September::Times appeared-4::Line Numbers-['5-', '11', '38', '45']
+
+Noun-TO::Times appeared-2::Line Numbers-['6-', '39']
+
+Noun-Michael::Times appeared-2::Line Numbers-['6-', '39']
+
+Noun-L::Times appeared-2::Line Numbers-['6-', '17', '39', '51']
+
+Noun-Smith::Times appeared-2::Line Numbers-['6-', '39']
+
+Noun-FROM::Times appeared-2::Line Numbers-['7-', '40']
+
+Noun-Freddy::Times appeared-2::Line Numbers-['7-', '40']
+
+Noun-Ortiz::Times appeared-2::Line Numbers-['7-', '40']
+
+Noun-SUBJECT::Times appeared-2::Line Numbers-['8-', '41']
+
+Noun-Asbestos::Times appeared-6::Line Numbers-['8-', '11', '20', '41', '45', '54']
+
+Noun-Survey::Times appeared-2::Line Numbers-['8-', '41']
+
+Noun-CASNR::Times appeared-4::Line Numbers-['9-', '14', '42', '48']
+
+Noun-Annex::Times appeared-2::Line Numbers-['9-', '42']
+
+Noun-Building::Times appeared-4::Line Numbers-['9-', '10', '42', '43']
+
+Noun-Animal::Times appeared-2::Line Numbers-['9-', '42']
+
+Noun-Science::Times appeared-2::Line Numbers-['9-', '42']
+
+Noun-Renovation::Times appeared-2::Line Numbers-['10', '43']
+
+Noun-Management::Times appeared-2::Line Numbers-['11', '45']
+
+Noun-Section::Times appeared-2::Line Numbers-['11', '45']
+
+Noun-personnel::Times appeared-2::Line Numbers-['11', '45']
+
+Noun-survey::Times appeared-6::Line Numbers-['11', '14', '15', '45', '48', '49']
+
+Noun-support::Times appeared-2::Line Numbers-['12', '46']
+
+Noun-renovation::Times appeared-2::Line Numbers-['12', '46']
+
+Noun-project::Times appeared-2::Line Numbers-['12', '46']
+
+Noun-scope::Times appeared-2::Line Numbers-['12', '46']
+
+Noun-work::Times appeared-2::Line Numbers-['12', '46']
+
+Noun-consists::Times appeared-2::Line Numbers-['12', '46']
+
+Noun-installation::Times appeared-2::Line Numbers-['13', '47']
+
+Noun-windows::Times appeared-2::Line Numbers-['13', '47']
+
+Noun-ceiling::Times appeared-2::Line Numbers-['13', '22', '30', '47', '56', '64']
+
+Noun-ale::Times appeared-2::Line Numbers-['13', '47']
+
+Noun-unit::Times appeared-2::Line Numbers-['13', '26', '47', '60']
+
+Noun-removal::Times appeared-2::Line Numbers-['13', '47']
+
+Noun-HY::Times appeared-2::Line Numbers-['13', '26']
+
+Noun-AC::Times appeared-4::Line Numbers-['13', '26', '28', '47', '60', '62']
+
+Noun-upgrade::Times appeared-2::Line Numbers-['13', '47']
+
+Noun-building::Times appeared-12::Line Numbers-['14', '18', '24', '32', '48', '52', '58', '66']
+
+Noun-review::Times appeared-2::Line Numbers-['14', '48']
+
+Noun-reports::Times appeared-2::Line Numbers-['14', '48']
+
+Noun-ENSR::Times appeared-2::Line Numbers-['15', '49']
+
+Noun-asbestos::Times appeared-3::Line Numbers-['15', '49', '66']
+
+Noun-visit::Times appeared-4::Line Numbers-['15', '19', '49', '53']
+
+Noun-collection::Times appeared-2::Line Numbers-['15', '49']
+
+Noun-bulk::Times appeared-4::Line Numbers-['15', '16', '49', '50']
+
+Noun-samples::Times appeared-8::Line Numbers-['15', '16', '31', '32', '49', '50', '65', '66']
+
+Noun-materials::Times appeared-6::Line Numbers-['15', '18', '49', '52']
+
+Noun-J3::Times appeared-2::Line Numbers-['16', '50']
+
+Noun-Resources::Times appeared-2::Line Numbers-['16', '50']
+
+Noun-Inc::Times appeared-2::Line Numbers-['16', '50']
+
+Noun-sample::Times appeared-2::Line Numbers-['15', '16', '17', '31', '32', '49', '50', '51', '65', '66']
+
+Noun-analysis::Times appeared-2::Line Numbers-['17', '51']
+
+Noun-light::Times appeared-2::Line Numbers-['17', '51']
+
+Noun-microscopy::Times appeared-2::Line Numbers-['17', '51']
+
+Noun-PLM::Times appeared-2::Line Numbers-['17', '51']
+
+Noun-techniques::Times appeared-2::Line Numbers-['17', '51']
+
+Noun-Lab::Times appeared-2::Line Numbers-['17', '51']
+
+Noun-results::Times appeared-2::Line Numbers-['17', '51']
+
+Noun-Materials::Times appeared-2::Line Numbers-['20', '54']
+
+Noun-HM::Times appeared-2::Line Numbers-['21', '55']
+
+Noun-Steam::Times appeared-4::Line Numbers-['21', '55']
+
+Noun-TSI::Times appeared-2::Line Numbers-['21', '55']
+
+Noun-System::Times appeared-4::Line Numbers-['21', '22', '55', '56']
+
+Noun-Debris::Times appeared-2::Line Numbers-['21', '55']
+
+Noun-Radiator::Times appeared-2::Line Numbers-['22', '56']
+
+Noun-Pipe::Times appeared-2::Line Numbers-['22', '56']
+
+Noun-tunnel::Times appeared-5::Line Numbers-['22', '24', '25', '30', '56', '58', '59', '64']
+
+Noun-chases::Times appeared-4::Line Numbers-['22', '30', '56', '64']
+
+Noun-plaster::Times appeared-2::Line Numbers-['22', '56']
+
+Noun-ceilings::Times appeared-4::Line Numbers-['22', '30', '56', '64']
+
+Noun-areas::Times appeared-9::Line Numbers-['23', '25', '28', '29', '57', '59', '62', '63', '64']
+
+Noun-steam::Times appeared-8::Line Numbers-['23', '26', '28', '31', '57', '60', '62', '65']
+
+Noun-system::Times appeared-10::Line Numbers-['23', '24', '26', '28', '31', '57', '58', '60', '62', '65']
+
+Noun-fed::Times appeared-2::Line Numbers-['23', '57']
+
+Noun-radiator::Times appeared-2::Line Numbers-['23', '57']
+
+Noun-east::Times appeared-2::Line Numbers-['24', '58']
+
+Noun-section::Times appeared-2::Line Numbers-['24', '58']
+
+Noun-perimeter::Times appeared-4::Line Numbers-['24', '25', '58', '59']
+
+Noun-additions::Times appeared-2::Line Numbers-['25', '59']
+
+Noun-circa::Times appeared-2::Line Numbers-['25', '59']
+
+Noun-s::Times appeared-3::Line Numbers-['2-', '3-', '8-', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23', '24', '25', '26', '27', '28', '29', '30', '31', '32', '35', '41', '45', '46', '47', '48', '49', '50', '51', '52', '53', '54', '55', '56', '57', '58', '59', '60', '61', '62', '63', '64', '65', '66']
+
+Noun-tunnels::Times appeared-3::Line Numbers-['25', '59', '64']
+
+Noun-construction::Times appeared-4::Line Numbers-['26', '27', '60', '61']
+
+Noun-New::Times appeared-2::Line Numbers-['26', '60']
+
+Noun-units::Times appeared-2::Line Numbers-['26', '60']
+
+Noun-equipment::Times appeared-2::Line Numbers-['26', '60']
+
+Noun-Material::Times appeared-2::Line Numbers-['20', '27', '54', '61']
+
+Noun-B::Times appeared-1::Line Numbers-['8-', '9-', '10', '27', '41', '42', '43', '61']
+
+Noun-TTU::Times appeared-2::Line Numbers-['27', '61']
+
+Noun-insulation::Times appeared-6::Line Numbers-['28', '29', '31', '62', '63', '65']
+
+Noun-ACM::Times appeared-2::Line Numbers-['28', '62']
+
+Noun-debris::Times appeared-6::Line Numbers-['29', '32', '63', '66']
+
+Noun-multiple::Times appeared-2::Line Numbers-['29', '63']
+
+Noun-and/or::Times appeared-2::Line Numbers-['29', '63']
+
+Noun-cut::Times appeared-2::Line Numbers-['29', '63']
+
+Noun-meas::Times appeared-1::Line Numbers-['30']
+
+Noun-facility::Times appeared-2::Line Numbers-['31', '65']
+
+Noun-contain::Times appeared-2::Line Numbers-['32', '66']
+
+Noun-ashestos::Times appeared-1::Line Numbers-['32']
+
+Noun-~Il::Times appeared-1::Line Numbers-['34']
+
+Noun-l~::Times appeared-1::Line Numbers-['34']
+
+Noun-]::Times appeared-1::Line Numbers-['34']
+
+Noun-TECI-I::Times appeared-1::Line Numbers-['34']
+
+Noun-UNIVERSl::Times appeared-1::Line Numbers-['34']
+
+Noun-~'Y::Times appeared-1::Line Numbers-['34']
+
+Noun-••::Times appeared-1::Line Numbers-['34']
+
+Noun-~-::Times appeared-1::Line Numbers-['35']
+
+Noun-D1v1s1off::Times appeared-1::Line Numbers-['35']
+
+Noun-Engmeenng::Times appeared-1::Line Numbers-['36']
+
+Noun-Scrv::Times appeared-1::Line Numbers-['36']
+
+Noun-cl::Times appeared-1::Line Numbers-['14', '36', '48']
+
+Noun-MEMOR::Times appeared-1::Line Numbers-['4-', '37']
+
+Noun-AN::Times appeared-1::Line Numbers-['4-', '37']
+
+Noun-DUM::Times appeared-1::Line Numbers-['4-', '37']
+
+Noun-HV::Times appeared-2::Line Numbers-['47', '60']
+
