@@ -1,2 +1,2 @@
-# Web scraper project for REsearch DR.Kt, Manis
+# Web scraper project for Research DR.Kt, Manis
 - Currently under development
